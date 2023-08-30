@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+}
+.header-container{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    height: 600px;
+}
+.container{
+    margin: 140px 140px;
+}
+.heading{ 
+    font-size: 60px;
+    
+}
+.container p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    
+}
+.btn-shop{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 13px 20px;
+    margin: 15px 0;
+    cursor: pointer;
+}
+.Featured-container{
+    text-align: center;
+    margin-top: 100px;
+}
+.Featured-container p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin: 10px 0;
+
+}
+.Featured-section{
+    background-color: #FFF;;
+}
+
+
+
+.container-fluid{
+    display: flex;
+    text-align: center;
+    margin: 0 100px;
+    justify-content: space-between;
+    margin-top: 60px;
+} 
+
+.background-redius1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 370px;
+    height: 400px;
+}
+.background-redius2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 370px;
+    height: 400px;
+}
+.background-redius3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 370px;
+    height: 400px;
+} 
+
+.container-fluid h4{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    text-decoration-line: underline;
+}
+
+
+
+.border{
+    border-radius: 8px;
+    background: rgb(0 0 0 / 5%);
+    padding: 0px 240px 0px 240px;
+    height: 320px;
+    margin: 40px 130px 0px 130px;  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.section-deal{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.container-deal{
+    display: flex;
+    margin-top: 60px;
+}
+.deal-title{
+    margin-top: 180px;
+    margin-left: 230px;
+}
+.deal-title h2{
+    font-size: 35px;
+}
+.deal-title p {
+    margin-top: 15px;
+}
+.deal-title .sign-up{
+    margin-top: 15px;
+    border-radius: 5px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 25px;
+    border: 25px;
+    cursor: pointer;
+}
+
+.insta-title {
+    text-align: center;
+}
+.insta-title h3{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 24px;
+}
+.insta-title p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
+.insta-img{
+    display: flex;
+    width: 200px;
+    height: 300px;
+    gap: 30px;
+    margin-left: 115px;
+    margin-top: 20px;
+}
+
+.deals-img{
+    background-image: url(./Flower_Asset/Rectangle\ 9.png);
+    width: 1127px;
+    height: 260px;
+    margin-left: 115px;
+    margin-top: 80px;
+}
+
+.deals-title h2{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px ;
+    text-align: center;
+    padding-top: 50px; 
+}
+.deals-title p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+/* #form{
+    text-align: center;
+    border-radius: 10px;
+    background: #FFF;
+}
+.input .search{
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+} */
+
+.submit-title {
+    margin-bottom: 48px;
+}
+
+.submit {
+    text-align: center;
+}
+
+.submit input {
+    padding: 13px 100px 13px 0px;
+    margin-top: 10px;
+    width: 250px;
+    border-radius: 8px;
+}
+
+.submit-btn {
+    width: 130px;
+    font-size: 19px;
+    height: 45px;
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+    color: #fff;
+}
+.footer-section{
+    background: #111010;
+    height: 300px;
+    margin-top: 50px;
+}
+.footer-section h2 {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 40px;
+}
+.footer-section p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 10px;
+}
+.footer-section p small{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 8px;
+}
+.white{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
